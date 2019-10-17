@@ -1,5 +1,5 @@
 # go_hacks
-Random scripts to ease your life in this cruel world
+Random scripts to ease your life
 
 # Script 1: SQL insert and create script extractor (merge_sql_script.go)
 Extract sql files for create table statements
